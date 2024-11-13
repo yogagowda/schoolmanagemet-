@@ -28,5 +28,13 @@
     "multer": "^1.4.5-lts.1",
     "nodemailer": "^6.9.3",
     "xlsx": "^0.18.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogagowda/schoolmanagemet-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yogagowda/schoolmanagemet-/issues"
+  },
+  "homepage": "https://github.com/yogagowda/schoolmanagemet-#readme"
 }

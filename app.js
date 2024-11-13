@@ -1,4 +1,4 @@
-var express = require('express');
+var express = require('express');//express
 const mongoose = require('mongoose');
 const studentRouter = require('./router/stdRouter');
 const markRouter=require('./router/markRouter')
